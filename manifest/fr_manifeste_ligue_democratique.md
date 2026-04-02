@@ -6,7 +6,8 @@ Le [chapitre 1](#chapitre-1-mission-et-vision-de-la-ligue-démocratique) présen
 Le [chapitre 2](#chapitre-2-réponses-préliminaires-à-quelques-critiques) liste des critiques et les réponses à ces critiques ; il peut être survolé lors d'une première lecture.  
 Le [chapitre 3](#chapitre-3-mise-en-oeuvre-de-la-démocratie-liquide) présente une méthode permettant de passer progressivement des systèmes actuels au système de démocratie liquide.  
 Le [chapitre 4](#chapitre-4-proposition-de-processus-de-décision-en-démocratie-liquide) introduit un exemple de processus de prise de décision.  
-Le [chapitre 5](#chapitre-5-comment-participer-à-la-ligue-démocratique) détaille comment il vous est possible de participer.
+Le [chapitre 5](#chapitre-5-allocation-démocratique-des-ressources-et-de-linvestissement) explique comment la démocratie liquide s'applique à l'allocation démocratique des ressources et à l'investissement.  
+Le [chapitre 6](#chapitre-6-comment-participer-à-la-ligue-démocratique) détaille comment il vous est possible de participer.
 
 ---
 
@@ -81,24 +82,108 @@ Ce processus de décision en démocratie liquide vise à renforcer la participat
 
 ---
 
-### Chapitre 5. Comment Participer à la Ligue Démocratique
+### Chapitre 5. Allocation Démocratique des Ressources et de l'Investissement
 
-##### 5.1 Introduction à la Participation
+##### 5.1 Pourquoi l'Investissement Doit Être Démocratisé
+Toute société doit décider comment une partie de ses ressources sera utilisée non seulement pour les besoins immédiats, mais aussi pour l'avenir.
+
+Cela inclut les investissements dans les infrastructures, l'éducation, la santé, la recherche, la production, la culture, et dans toutes sortes de projets dont les résultats sont incertains et qui peuvent même échouer.
+
+Cette nécessité n'est liée à aucune idéologie particulière. Toute société doit, d'une manière ou d'une autre, allouer des ressources à des activités orientées vers l'avenir.
+
+La véritable question politique n'est donc pas de savoir si la société doit investir, mais qui doit décider de la manière dont cet investissement est réalisé.
+
+##### 5.2 Contre le Monopole du Capital sur l'Avenir
+Dans les systèmes actuels, le pouvoir d'orienter l'avenir est largement concentré entre les mains de ceux qui possèdent le capital.
+
+Ce sont eux qui décident, directement ou indirectement, quels projets sont financés, quelles priorités l'emportent, et quelles transformations de la société sont jugées dignes d'être soutenues.
+
+Cette concentration du pouvoir crée une contradiction : l'égalité politique est proclamée, tandis qu'une part majeure de l'orientation réelle de la société reste dépendante d'une propriété inégale.
+
+La Ligue Démocratique affirme que l'avenir collectif ne doit pas être déterminé principalement par le capital privé.
+
+##### 5.3 L'Investissement comme Fonction Démocratique
+La démocratie liquide ne doit pas s'arrêter aux portes du parlement, des conseils municipaux ou des institutions politiques formelles.
+
+Elle doit aussi s'appliquer à l'allocation démocratique des ressources.
+
+Cela signifie qu'une partie des ressources collectées à chaque niveau de la société doit être allouée selon des décisions démocratiques, prises directement par les citoyens ou par délégation révocable.
+
+Dans un tel système, chaque citoyen contribue selon ses moyens, mais chaque citoyen participe aux décisions avec un poids politique égal.
+
+La capacité de contribuer davantage ne doit pas donner plus de pouvoir sur l'avenir collectif.
+
+##### 5.4 Plusieurs Niveaux de Décision Collective
+La vie humaine est organisée à plusieurs niveaux : local, municipal, régional, national, continental et planétaire.
+
+À chacun de ces niveaux, des questions communes se posent et des ressources communes peuvent être allouées.
+
+La Ligue Démocratique propose que la démocratie liquide soit progressivement exercée à tous ces niveaux.
+
+Chaque niveau doit pouvoir décider de l'usage de ses propres ressources, tout en respectant le cadre légal défini par les niveaux plus larges.
+
+De cette manière, l'autonomie locale et la solidarité plus large peuvent être combinées.
+
+##### 5.5 Distinction entre Lois et Investissements
+Il est important de distinguer deux choses.
+
+D'abord, les lois définissent ce qui est permis, interdit ou requis. Ces lois peuvent être décidées démocratiquement à différents niveaux, et les niveaux plus larges peuvent imposer des contraintes aux niveaux plus restreints.
+
+Ensuite, les décisions d'investissement concernent l'usage concret des ressources à l'intérieur de ce cadre légal.
+
+Une ville, par exemple, doit être libre de consacrer une partie de ses propres ressources au logement, aux transports ou à l'éducation, tant qu'elle respecte les règles communes applicables.
+
+Cette distinction permet à la fois la cohérence et l'autonomie.
+
+##### 5.6 Risque, Erreur et Apprentissage Collectif
+Aucun système d'investissement ne peut éliminer l'incertitude.
+
+Les projets peuvent échouer. Les priorités peuvent être mal choisies. Une société peut découvrir trop tard qu'elle n'a pas bien décidé.
+
+Le but de l'allocation démocratique n'est pas de créer un système infaillible.
+
+Il s'agit de faire en sorte que les décisions sur l'avenir ne soient plus confisquées par une minorité, et que les erreurs collectives restent visibles, discutables et révisables.
+
+La démocratie liquide n'est donc pas présentée comme un système parfait, mais comme un système moins mauvais parce qu'il est plus corrigeable.
+
+##### 5.7 Transparence, Responsabilité et Citoyenneté
+Pour qu'un tel système fonctionne, la transparence est essentielle.
+
+Les citoyens doivent pouvoir savoir comment les décisions sont prises, qui soutient quoi, et comment le pouvoir délégué est exercé.
+
+La Ligue Démocratique considère que la responsabilité grandit avec la visibilité.
+
+Une véritable culture démocratique ne peut pas reposer sur la dissimulation permanente de l'action politique, mais sur la formation progressive de citoyens qui assument la responsabilité de leurs choix et apprennent collectivement de ceux-ci.
+
+##### 5.8 La Démocratie comme Détermination Collective de l'Avenir
+Dans cette perspective, la démocratie ne se réduit plus à choisir des représentants de temps à autre.
+
+Elle devient la détermination collective continue de l'avenir de la société.
+
+Démocratiser l'investissement, c'est étendre la démocratie à l'un des lieux où le pouvoir a longtemps été le plus concentré.
+
+Sans cette extension, la démocratie politique reste incomplète.
+
+---
+
+### Chapitre 6. Comment Participer à la Ligue Démocratique
+
+##### 6.1 Introduction à la Participation
 La démocratie liquide repose sur la participation active et l'engagement des citoyens. Ce chapitre détaille les différentes manières dont vous pouvez vous impliquer et contribuer à la mise en œuvre et au fonctionnement de la démocratie liquide.
 
-##### 5.2 Devenir Membre de la Ligue Démocratique (LD)
+##### 6.2 Devenir Membre de la Ligue Démocratique (LD)
 - **Adhésion par Simple Volonté :**
   - **Déclaration de Membre :** Devenir membre de la Ligue Démocratique (LD) se fait par la simple volonté de le faire. N'importe qui peut se déclarer membre de la LD. En se déclarant membre, on exprime son adhésion aux principes énoncés dans ce manifeste.
   - **Aucune Participation Obligatoire :** Aucune participation spécifique n'est requise pour être membre de la LD, sauf pour les élus. Les membres sont encouragés à participer activement, mais cela n'est pas une obligation.
 
-##### 5.3 Engagement des Élus de la LD
+##### 6.3 Engagement des Élus de la LD
 - **Rôles et Responsabilités des Élus :**
   - **Information des Citoyens :** Les élus de la LD s'engagent à informer les citoyens des propositions en cours et à fournir des explications claires et transparentes sur les enjeux de chaque proposition.
   - **Présentation des Propositions Citoyennes :** Les élus doivent présenter les propositions soumises par les citoyens et les porter devant les instances décisionnelles.
   - **Vote selon les Résultats des Citoyens :** Les élus s'engagent à voter en accord avec les résultats des votes en ligne des citoyens. Leur vote officiel reflétera ainsi la volonté exprimée par les citoyens.
   - **Information des Autres Élus :** Les élus doivent informer les autres élus (membres LD ou non) des résultats des votes citoyens, assurant ainsi que la volonté populaire est bien prise en compte dans les décisions politiques.
 
-##### 5.4 Participer aux Votes et à la Délibération
+##### 6.4 Participer aux Votes et à la Délibération
 - **Vote Direct et Délégation :**
   - **Voter Directement :** Participez aux votes en ligne sur les propositions et les décisions importantes. Chaque voix compte et contribue à façonner les politiques et les décisions.
   - **Délégation de Vote :** Si vous préférez, vous pouvez déléguer votre vote à un représentant de confiance. Cette délégation peut être faite par domaine spécifique et peut être reprise à tout moment. Notez que si un vote est en cours, la délégation n'est effective qu'après ce vote.
@@ -110,11 +195,11 @@ La démocratie liquide repose sur la participation active et l'engagement des ci
 - **Participation aux Discussions :**
   - **Espaces de Discussion :** Engagez-vous dans les discussions et les délibérations sur les propositions. Cela peut se faire sous forme de réunions publiques, de débats en ligne, ou d'autres formats adaptés.
 
-##### 5.5 Contribuer au Développement de la Plateforme
+##### 6.5 Contribuer au Développement de la Plateforme
 - **Développement Technologique :** Si vous avez des compétences en développement technologique, vous pouvez contribuer au développement et à l'amélioration de la plateforme de démocratie liquide. Rejoignez le projet open source et participez aux différentes phases de développement.
 - **Tests et Retours d'Expérience :** Participez aux projets pilotes en tant que bêta-testeur pour tester la plateforme et fournir des retours d'expérience précieux. Aidez à identifier les problèmes et à proposer des améliorations.
 
-##### 5.6 Sensibilisation et Éducation
+##### 6.6 Sensibilisation et Éducation
 - **Programmes Éducatifs :** Contribuez
 
  à la création et à la diffusion de programmes éducatifs pour former les citoyens à l'utilisation de la plateforme de vote en ligne et à l'importance de leur participation.

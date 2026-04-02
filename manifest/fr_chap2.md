@@ -3,6 +3,8 @@
 
 Ce document constitue le second chapitre du [Manifeste de la ligue démocratique](./fr_manifeste_ligue_democratique.md)  
 
+Ces réponses préliminaires concernent non seulement la prise de décision politique au sens étroit, mais aussi l'allocation démocratique des ressources communes et les décisions d'investissement à long terme.
+
 [Section 1](#21-complexité-et-accessibilité) Complexité et Accessibilité
 [Section 2](#22-risque-de-manipulation-et-de-populisme) Risque de Manipulation et de Populisme
 [Section 3](#23-participation-et-engagement) Participation et Engagement
@@ -20,6 +22,8 @@ Ce document constitue le second chapitre du [Manifeste de la ligue démocratique
 **Critique 1 :** La démocratie liquide peut être trop complexe pour la majorité des citoyens, nécessitant un haut niveau de compréhension politique et technique.
 
 **Réponse 1 :** Bien que la démocratie liquide puisse sembler complexe au premier abord, des plateformes simplifiées faciliteront la participation des citoyens. Utiliser ces plateformes ne sera pas plus difficile que de liker un post sur les réseaux sociaux. Les citoyens pourront déléguer et reprendre leurs votes en quelques clics.
+
+Cela vaut non seulement pour les lois et les politiques publiques, mais aussi pour les décisions concernant l'allocation des ressources communes, y compris les choix d'investissement à différents niveaux de la société.
 
 **Critique 2 :** Comment garantir que les plateformes restent sécurisées et protégées contre les cyberattaques ?
 
@@ -43,6 +47,8 @@ Cependant, contrairement aux systèmes actuels, la démocratie liquide permet au
 
 En outre, ce système responsabilise également les électeurs, car ils doivent surveiller les actions de leurs délégués et réagir en conséquence. Si une manipulation survient et n'est pas corrigée, la responsabilité en incombe directement aux électeurs.
 
+Il en va de même lorsque la question n'est pas seulement législative ou administrative, mais économique. Si des acteurs délégués soutiennent l'allocation des ressources d'une manière que les citoyens jugent irresponsable, à courte vue ou contraire au bien commun, ces délégations peuvent également être reprises. L'orientation économique ne doit pas être soustraite à la correction démocratique.
+
 **Critique 2 :** La transparence des votes pourrait-elle conduire à des pressions sociales ou à des représailles contre ceux qui votent différemment de la majorité ?
 
 **Réponse 2 :** La transparence des votes dans la démocratie liquide permet une plus grande responsabilité et une meilleure compréhension des décisions politiques. Cependant, il est essentiel de garantir que cette transparence n'entraîne pas de pressions sociales ou de représailles contre ceux qui votent différemment de la majorité. Voici les points clés pour répondre à cette critique :
@@ -60,6 +66,8 @@ En assurant ces protections et en mettant en place des mesures strictes contre l
 **Réponse 1 :** La démocratie liquide offre une solution innovante aux problèmes de faible participation observés dans certaines initiatives de démocratie directe. En permettant aux citoyens de déléguer leur vote à des personnes de confiance pour chaque niveau de décision (local, régional, national, international) et pour chaque domaine spécifique, le système assure une participation plus flexible et ciblée.
 
 Chacun peut donc choisir de ne participer qu'aux décisions qui l'intéressent et le concernent directement, tout en ayant la possibilité de déléguer son vote sur d'autres questions à des experts ou à des représentants en qui ils ont confiance. Cette flexibilité encourage une participation plus active et engage les citoyens à différents niveaux selon leurs intérêts et leur expertise.
+
+Certains citoyens peuvent aussi souhaiter participer directement aux questions de budget, d'investissement, de logement, de transport, d'éducation, de recherche, ou à d'autres usages concrets des ressources communes, tout en déléguant le reste.
 
 **Critique 2 :** Si les citoyens choisissent massivement de déléguer leurs votes, comment éviter que cela mène à une apathie générale et à une perte de culture politique ?
 
@@ -139,6 +147,8 @@ En appliquant ces mesures, nous pouvons garantir que le processus démocratique 
 
 Ce mécanisme de contrôle continu assure que les représentants restent alignés avec les souhaits de leurs électeurs, sous peine de perdre instantanément leur mandat délégué. La transparence des votes facilite cette surveillance et rend le processus démocratique plus dynamique et réactif.
 
+Cette exigence de transparence s'applique de la même manière aux délégations, aux votes, et au soutien apporté aux lois, aux politiques publiques et aux allocations économiques. Les citoyens doivent pouvoir savoir qui soutient quoi, y compris lorsque des ressources communes sont dirigées vers un projet plutôt qu'un autre.
+
 ##### 2.6 Échelle et Applicabilité
 **Critique :** La mise en œuvre de la démocratie liquide à grande échelle, dans des pays avec des millions de citoyens, peut être impraticable.
 
@@ -202,14 +212,18 @@ Enfin, il est probable qu'une partie de la population soit opposée au système 
 Ces mesures permettront d'assurer que le système de démocratie liquide reste flexible et réactif tout en maintenant la stabilité et la cohérence nécessaires pour un processus décisionnel efficace.
 
 ##### 2.10 Expertise et Compétence
-**Critique :** Les citoyens peuvent ne pas avoir l'expertise nécessaire pour prendre des décisions éclairées sur des questions complexes, même avec la possibilité de déléguer leur vote. Cela pourrait mener à des décisions mal informées ou à la domination des voix des experts.
+**Critique :** Les citoyens peuvent ne pas avoir l'expertise nécessaire pour prendre des décisions éclairées sur des questions complexes, même avec la possibilité de déléguer leur vote. Cela pourrait mener à des décisions mal informées ou à la domination des voix des experts. Les citoyens ne sont pas tous compétents pour évaluer des projets techniques, des priorités d'investissement ou des décisions complexes d'allocation des ressources.
 
 **Réponse :** Lorsque les citoyens ont le choix de voter directement ou de déléguer leur vote sur des décisions qui les intéressent, ils ont également l'opportunité d'étudier les questions en profondeur et de confronter les points de vue divergents. Ce processus d'engagement actif encourage l'éducation et la formation sur les sujets pertinents. En offrant à chacun le choix de voter, la démocratie liquide stimule l'intérêt et la participation des citoyens, les incitant à se former sur les questions qui les concernent.
 
 De plus, ceux qui se sentent moins compétents ou moins informés sur certains sujets ont la possibilité de déléguer leur vote à des experts ou à des représentants de confiance. Cela assure que les décisions sont prises avec un niveau approprié d'expertise, tout en offrant aux citoyens la chance de se former et de participer directement lorsqu'ils se sentent prêts.
 
+La démocratie liquide n'exige pas que chaque citoyen devienne un expert en toute chose. Elle permet à chacun de décider directement là où il se sent concerné et compétent, et de déléguer les autres décisions à des personnes en qui il a confiance. De cette manière, la compétence peut émerger sans être transformée en monopole politique permanent.
+
 ##### 2.11 Engagement à Long Terme
 **Critique :** La possibilité de reprendre des délégations à tout moment pourrait décourager les représentants de s'engager à long terme dans des projets nécessitant une vision et une stabilité, car leur soutien pourrait disparaître rapidement.
+
+**Critique :** Certains investissements exigent un engagement à long terme. Si tout peut être révisé, comment la société peut-elle soutenir de grands projets dans la durée ?
 
 **Réponse :** Dans un système de démocratie liquide, être représentant n'est pas une fonction rémunérée ni une position formelle. Toute personne peut, si elle l'accepte, représenter d'autres citoyens. Cet aspect du système favorise une participation plus dynamique et flexible, où la délégation de votes est basée sur la confiance et la compétence perçue, plutôt que sur un statut officiel.
 
@@ -218,6 +232,8 @@ En ce qui concerne l'engagement à long terme sur des projets, il est crucial de
 Les projets à long terme peuvent être planifiés et budgétisés avec des phases claires, des objectifs définis, et des mécanismes de suivi et d'évaluation. Les citoyens peuvent approuver des budgets pluriannuels pour des projets spécifiques, assurant ainsi leur financement et leur progression indépendamment des changements de délégations.
 
 Cette approche permet de combiner la flexibilité et la réactivité de la démocratie liquide avec la nécessité de stabilité et de continuité pour les projets à long terme.
+
+**Réponse :** Aucun système politique ne peut éliminer l'incertitude de l'avenir. La question est de savoir si les décisions de long terme doivent être imposées sans correction, ou si elles doivent rester collectivement révisables. La Ligue Démocratique choisit la révisabilité. Cela peut créer des difficultés, mais cela évite le danger plus grand d'enfermer la société dans des choix de long terme imposés sans contrôle démocratique continu. Ce qui importe n'est pas l'infaillibilité, mais la capacité collective à apprendre et à corriger.
 
 ##### 2.12 Égalité de Voix et Influence
 **Critique 1 :** Les citoyens les plus actifs et les plus informés pourraient accumuler disproportionnellement des délégations de votes, ce qui pourrait mener à une concentration du pouvoir entre les mains de quelques individus influents.
@@ -230,6 +246,8 @@ Cette approche permet de combiner la flexibilité et la réactivité de la démo
 - **Diversité et Pluralisme :** Même si certains individus accumulent plus de délégations, la nature dynamique de la démocratie liquide favorise la diversité et le pluralisme des opinions. Les citoyens ont la liberté de déléguer leurs votes à différents représentants pour différents domaines, assurant ainsi une multiplicité de voix et de perspectives.
 
 En somme, la concentration temporaire des délégations de votes entre les mains de quelques individus n'est pas nécessairement problématique, car elle repose sur la confiance et la compétence, et est soumise à un contrôle continu et dynamique par l'ensemble des citoyens.
+
+Le même principe doit s'appliquer lorsque des ressources communes sont allouées. Les citoyens peuvent contribuer de manière inégale parce que leurs moyens sont inégaux, mais ils doivent conserver un poids politique égal pour décider de l'usage de ces ressources. Une plus grande richesse ne doit pas se traduire par une plus grande autorité sur l'avenir collectif.
 
 **Critique 2 :** Comment garantir que les citoyens reçoivent une information équilibrée et non biaisée pour se former ?
 

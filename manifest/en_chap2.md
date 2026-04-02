@@ -3,6 +3,8 @@
 
 This document the second chapter of [Democratic League's Manifesto](./fr_manifeste_ligue_democratique.md)
 
+These preliminary responses concern not only laws and public policies, but also the democratic allocation of common resources and long-term investment decisions.
+
 [Section 1](#21-complexity-and-accessibility) Complexity and Accessibility  
 [Section 2](#22-risk-of-manipulation-and-populism) Risk of Manipulation and Populism  
 [Section 3](#23-participation-and-engagement) Participation and Engagement  
@@ -19,6 +21,8 @@ This document the second chapter of [Democratic League's Manifesto](./fr_manifes
 **Critique 1:** Liquid democracy may be too complex for the majority of citizens, requiring a high level of political and technical understanding.
 
 **Response 1:** Although liquid democracy may seem complex at first glance, simplified platforms will facilitate citizen participation. Using these platforms will be no more difficult than liking a post on social media. Citizens will be able to delegate and revoke their votes with a few clicks.
+
+This applies not only to laws and public policies, but also to decisions about the allocation of common resources, including investment choices at different levels of society.
 
 **Critique 2:** How can we ensure that the platforms remain secure and protected against cyberattacks?
 
@@ -42,6 +46,8 @@ However, unlike current systems, liquid democracy allows citizens to revoke thei
 
 Additionally, this system also holds voters accountable, as they must monitor their delegates' actions and respond accordingly. If manipulation occurs and is not corrected, the responsibility lies directly with the voters.
 
+The same applies when the question is not only legislative or administrative, but economic. If delegated actors support the allocation of resources in ways that citizens judge irresponsible, short-sighted, or contrary to the common good, these delegations can also be revoked. Economic orientation must not be shielded from democratic correction.
+
 **Critique 2:** Could the transparency of votes lead to social pressure or reprisals against those who vote differently from the majority?
 
 **Response 2:** The transparency of votes in liquid democracy allows for greater accountability and a better understanding of political decisions. However, it is essential to ensure that this transparency does not lead to social pressure or reprisals against those who vote differently from the majority. Here are the key points to address this criticism:
@@ -59,6 +65,8 @@ By ensuring these protections and implementing strict measures against abuse, vo
 **Response 1:** Liquid democracy offers an innovative solution to the problems of low participation observed in some direct democracy initiatives. By allowing citizens to delegate their vote to trusted individuals for each decision level (local, regional, national, international) and for each specific area, the system ensures more flexible and targeted participation.
 
 Each person can therefore choose to participate only in decisions that interest and concern them directly, while having the option to delegate their vote on other matters to experts or representatives they trust. This flexibility encourages more active participation and engages citizens at different levels according to their interests and expertise.
+
+Some citizens may also wish to participate directly in questions of budget, investment, housing, transport, education, research, or other concrete uses of common resources, while delegating the rest.
 
 **Critique 2:** If citizens massively choose to delegate their votes, how can we avoid general apathy and a loss of political culture?
 
@@ -134,6 +142,8 @@ By implementing these measures, we can ensure that the democratic process remain
 
 This continuous control mechanism ensures that representatives remain aligned with their electors' wishes, under penalty of losing their delegated mandate instantly. Vote transparency facilitates this monitoring and makes the democratic process more dynamic and responsive.
 
+This requirement of transparency applies equally to delegations, votes, and the support given to laws, public policies, and economic allocations. Citizens must be able to know who supports what, including when common resources are directed toward one project rather than another. This transparency must also apply to how common resources are allocated and which projects are supported.
+
 ##### 2.6 Scale and Applicability
 **Critique :** Implementing liquid democracy on a large scale, in countries with millions of citizens, may be impractical.
 
@@ -165,6 +175,10 @@ Liquid democracy offers an innovative solution by combining the advantages of bo
 
 We acknowledge that implementing liquid democracy is a crucial step to test and evaluate its effectiveness. That is why we will dedicate a specific chapter to the implementation of this system, where we will detail the necessary steps, required resources, and success measures to assess its impact.
 
+**Critique 4:** Democratizing investment will lead to bad economic decisions.
+
+**Response 4:** Poor decisions already exist in current systems, but they are made by a minority with limited accountability. The objective is not to eliminate error, but to ensure that decisions remain visible, discussable, and revisable.
+
 ##### 2.8 Cost and Administrative Complexity
 **Critique :** The administrative management of a liquid democracy system could be costly and complex.
 
@@ -195,24 +209,30 @@ Finally, it is likely that a portion of the population will be opposed to the li
 These measures will ensure that the liquid democracy system remains flexible and responsive while maintaining the stability and coherence necessary for effective decision-making.
 
 ##### 2.10 Expertise and Competence
-**Critique :** Citizens may not have the necessary expertise to make informed decisions on complex issues, even with the ability to delegate their vote. This could lead to poorly informed decisions or domination by expert voices.
+**Critique :** Citizens may not have the necessary expertise to make informed decisions on complex issues, even with the ability to delegate their vote. This could lead to poorly informed decisions or domination by expert voices. Citizens are not all competent to evaluate technical projects, investment priorities, or complex resource allocation decisions.
 
 **Response:** When citizens have the choice to vote directly or delegate their vote on decisions that interest them, they also have the opportunity to study the issues in depth and confront divergent viewpoints. This process of active engagement encourages education and training on relevant subjects. By offering everyone the choice to vote, liquid democracy stimulates citizens' interest and participation, encouraging them to educate themselves on matters that concern them.
 
 Moreover, those who feel less competent or informed on certain subjects can delegate their vote to experts or trusted representatives. This ensures that decisions are made with an appropriate level of expertise while giving citizens the chance to educate themselves and participate directly when they feel ready.
 
+This includes complex decisions such as the allocation of resources or the evaluation of projects. Liquid democracy does not require everyone to be an expert, but allows each citizen to delegate these decisions to those they trust.
+
+Liquid democracy does not require every citizen to become an expert in all matters. It allows each person to decide directly where they feel concerned and competent, and to delegate other decisions to people they trust. In this way, competence can emerge without being transformed into a permanent political monopoly.
+
 ##### 2.11 Long-term Commitment
 **Critique :** The possibility of revoking delegations at any time might discourage representatives from committing to long-term projects that require vision and stability, as their support could disappear quickly.
+
+**Critique:** Some investments require long-term commitment. If everything can be revised, how can society sustain major projects over time?
 
 **Response:** In a liquid democracy system, being a representative is not a remunerated position or formal function. Anyone can, if they accept, represent other citizens. This aspect of the system encourages more dynamic and flexible participation, where vote delegation is based on perceived trust and competence rather than official status.
 
 Regarding long-term commitment to projects, it is crucial to clarify that these commitments should be addressed through well-defined budgets and planning. The concept of budget in liquid democracy allows for structuring projects in a way that guarantees their continuity and stability, even if representatives change.
 
-Long-term projects can
-
- be planned and budgeted with clear phases, defined objectives, and monitoring and evaluation mechanisms. Citizens can approve multi-year budgets for specific projects, ensuring their funding and progress regardless of delegation changes.
+Long-term projects can be planned and budgeted with clear phases, defined objectives, and monitoring and evaluation mechanisms. Citizens can approve multi-year budgets for specific projects, ensuring their funding and progress regardless of delegation changes.
 
 This approach allows combining the flexibility and responsiveness of liquid democracy with the necessity of stability and continuity for long-term projects.
+
+**Response:** No political system can eliminate the uncertainty of the future. The question is whether long-term decisions should be imposed without correction, or whether they should remain collectively revisable. This difficulty also applies to long-term investments. The system does not eliminate this challenge, but chooses to keep decisions revisable rather than locking society into choices without ongoing democratic control. What matters is not infallibility, but the collective capacity to learn and correct.
 
 ##### 2.12 Equality of Voice and Influence
 **Critique 1:** The most active and informed citizens could disproportionately accumulate vote delegations, leading to a concentration of power in the hands of a few influential individuals.
@@ -225,6 +245,8 @@ This approach allows combining the flexibility and responsiveness of liquid demo
 - **Diversity and Pluralism:** Even if some individuals accumulate more delegations, the dynamic nature of liquid democracy promotes diversity and pluralism of opinions. Citizens have the freedom to delegate their votes to different representatives for different areas, ensuring a multiplicity of voices and perspectives.
 
 In summary, the temporary concentration of vote delegations in the hands of a few individuals is not necessarily problematic, as it is based on trust and competence and is subject to continuous and dynamic control by all citizens.
+
+The same principle must apply when common resources are allocated. Even if contributions differ, decision power must remain equal, including when deciding the use of common resources. Citizens may contribute unequally because their means are unequal, but they must retain equal political weight in deciding the use of those resources. Greater wealth must not translate into greater authority over the collective future.
 
 **Critique 2:** How to ensure that citizens receive balanced and unbiased information to educate themselves?
 
