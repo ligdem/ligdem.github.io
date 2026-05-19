@@ -1,217 +1,470 @@
-### Democratic League's Manifesto
+# From the Invisible Majority to the Present Majority
 
-#### Introduction
-This text aims to express the theoretical and practical program of the Democratic League (DL) to publicize it and encourage each reader to join.  
-[Chapter 1](#chapter-1-mission-and-vision-of-the-democratic-league) presents the mission and vision of the DL.  
-[Chapter 2](#chapter-2-preliminary-responses-to-some-criticisms) lists criticisms and responses to these criticisms; it can be skimmed during a first reading.  
-[Chapter 3](#chapter-3-implementation-of-liquid-democracy) presents a method to gradually transition from current systems to the liquid democracy system.  
-[Chapter 4](#chapter-4-proposed-decision-making-process-in-liquid-democracy) introduces an example of a decision-making process.  
-[Chapter 5](#chapter-5-democratic-allocation-of-resources-and-investment) explains how liquid democracy applies to the democratic allocation of resources and investment.  
-[Chapter 6](#chapter-6-how-to-participate-in-the-democratic-league) details how you can participate.
+## Manifesto for a True Democracy
+
+### S. Michéa
 
 ---
 
-#### Chapter 1. Mission and Vision of the Democratic League
+## Table of Contents
 
-##### 1.1 Mission: Promote a System of Liquid Democracy
-The mission of the Democratic League is to promote and implement a system of liquid democracy. This system combines elements of direct democracy and representative democracy, allowing citizens to participate directly in political decisions or delegate their voting power to trusted representatives, based on their preferences and expertise. It is important to note that in liquid democracy, citizens can delegate their vote for a specific area to someone and revoke this delegation at any time.
+**Preamble**
 
-##### 1.2 Vision: A Socially Juster World through Liquid Democracy
-The League firmly believes that a socially juster world where people can emancipate themselves is possible by replacing traditional representative democracy with a system of liquid democracy. This system would allow for increased citizen participation, better representation of popular interests, and strengthened democratic engagement and accountability.
+**I. The Problem: The Absent Majority**
+- 1. The people are sovereign in theory, absent in practice
+- 2. Representation as substitution
+- 3. Oppression rarely comes from a majority that is too present
 
----
+**II. The Principle: Vote, Delegate, Take Back Your Voice**
+- 4. Definition
+- 5. Delegation is not abandonment
+- 6. Deliberate before deciding
 
-#### Chapter 2. Preliminary Responses to Some Criticisms
+**III. The Method: Begin Without Waiting**
+- 7. The returned mandate
+- 8. A legal, progressive, and immediate transition
+- 9. The returned mandate is not the final goal
 
-You can find [here](./en_chap2.md) the content of this (rather long) chapter.
+**IV. Organizing Citizen Presence**
+- 10. Begin locally
+- 11. Practical means are not the heart of the project
 
----
+**V. Responses to Common Objections**
+- 12. "Citizens are not competent"
+- 13. "People will vote for anything"
+- 14. "The majority will oppress minorities"
+- 15. "Super-delegates will recreate an oligarchy"
+- 16. "It will be manipulated by the rich, the media, or influencers"
+- 17. "Not everyone has Internet access"
+- 18. "Security is impossible"
+- 19. "The imperative mandate is prohibited"
+- 20. "Why would elected officials agree to lose their power?"
+- 21. "Is this merely liquid democracy?"
 
-### Chapter 3. Implementation of Liquid Democracy
+**VI. Charter for Democratic League Candidates**
+- 22. Fundamental commitments
+- 23. Oath of the returned mandate
 
-##### 3.1 Gradual Implementation
-The key element for the gradual implementation of liquid democracy rests on two fundamental principles:
-
-- **Elected Officials' Commitment:** In any election, elected officials who declare themselves members of the Democratic League (DL) commit to applying the results of online votes for their personal decisions. This means that their official votes will reflect the preferences expressed by citizens via the liquid democracy platform.
-- **Publication of Results:** Non-elected DL members publish the online voting results transparently. These publications will allow citizens to see how their opinions and votes are considered and if they are followed by representatives.
-
-##### 3.2 Practical Steps for Implementation
-- **Establishment of Online Voting Platforms:**
-  - **Technological Development:** Design and develop secure, accessible, and user-friendly online voting platforms. Ensure complete transparency of the process and results.
-  - **Testing and Improvements:** Launch pilot projects to test the platform and gather feedback. Use this feedback to refine and improve the platform.
-
-- **Engagement of Candidates and Elected Officials:**
-  - **Recruitment of Members:** Encourage candidates at all levels of elections to join the DL and commit to respecting the results of online votes.
-  - **Awareness Campaigns:** Conduct awareness campaigns to inform voters about the commitment of candidates who are DL members and the importance of their participation in online votes.
-
-- **Implementation of Publication Mechanisms:**
-  - **Regular Publication:** Establish mechanisms for the regular publication of online voting results by non-elected DL members. Use online platforms, social media, and other communication channels to ensure wide dissemination.
-  - **Transparency and Accessibility:** Ensure that online voting results are presented transparently, accessibly, and understandably to all citizens.
-
-- **Citizen Education and Training:**
-  - **Educational Programs:** Develop educational programs to train citizens in using online voting platforms and the importance of their participation.
-  - **Educational Resources:** Provide educational resources such as guides, tutorials, and explanatory videos to help citizens familiarize themselves with the process.
-
----
-
-### Chapter 4. Proposed Decision-Making Process in Liquid Democracy
-
-##### 4.1 Introduction to the Decision-Making Process
-This decision-making process in liquid democracy is an initial proposal. Like any rule, law, or regulation, it can be modified at any time by a majority vote. The only constitutive law of the Democratic League (DL) is that any law can be changed by a majority vote.
-
-##### 4.2 Steps of the Decision-Making Process
-- **Submission and Support of Proposals:**
-  - **Submission of Proposals:** Any citizen can submit a decision or policy proposal. The proposal must include a clear description, the objectives aimed at, and the potential implications.
-  - **Support for Proposals:** A proposal is scheduled for a vote only when a sufficient number of supports is obtained. Support can be delegated in the same way as a vote.
-  - **Preliminary Analysis:** Before the vote, an evaluation of impacts and a budget estimate necessary for the implementation of the proposal are carried out.
-
-- **Debate and Deliberation:**
-  - **Discussion Space:** A discussion space is opened for each proposal, allowing citizens to discuss, ask questions, and debate the merits and shortcomings of the proposal.
-
-- **Voting and Delegation:**
-  - **Independence of Actions:** Voting and delegation are two independent actions. A citizen can delegate their vote in a domain to a person, but this delegation is done upstream of the votes. If a vote is underway, the delegation only becomes effective after the ongoing vote.
-  - **Direct Vote:** Citizens can choose to vote directly on each proposal.
-  - **Vote Delegation:** Citizens can also delegate their vote to a representative of their choice for one or more specific proposals.
-
-- **Counting and Publication of Results:**
-  - **Vote Counting:** At the close of the voting period, votes are counted transparently and securely.
-  - **Publication of Results:** The results are published in an accessible manner to all citizens.
-
-- **Implementation and Monitoring:**
-  - **Implementation of Decisions:** Adopted decisions are implemented according to the results of online votes.
-  - **Monitoring and Evaluation:** Regular monitoring is carried out to evaluate the impact of the decisions made and to gather feedback from citizens. The results of these evaluations are published to ensure continuous transparency.
-
-This decision-making process in liquid democracy aims to enhance citizen participation, ensure transparent decision-making, and guarantee that citizens' voices are heard and respected. By combining direct voting and delegation mechanisms, we can create a more responsive, inclusive, and accountable democratic system.
+**VII. Final Appeal: Make the People Present**
 
 ---
 
-### Chapter 5. Democratic Allocation of Resources and Investment
+## Preamble
 
-##### 5.1 Why Investment Must Be Democratized
-Every society must decide how part of its resources will be used not only for immediate needs, but also for the future.
+We call democracy a regime in which the people vote from time to time to choose those who will decide in their place.
 
-This includes investments in infrastructure, education, health, research, production, culture, and in all kinds of projects whose results are uncertain and which may even fail.
+They are told that they are sovereign. But once the election is over, they almost entirely disappear from public decision-making. They watch debates, endure laws, comment on choices, sometimes protest, then wait for the next election to replace those who decided without them with others who will again decide without them.
 
-This necessity is not tied to one ideology. Any society must, in one way or another, allocate resources toward future-oriented activities.
+This situation is not inevitable. It is the result of a particular form of political organization: representative democracy.
 
-The real political question is therefore not whether society should invest, but who should decide how this investment is made.
+We do not use the expression "true democracy" to deny the historical achievements of representative democracies. They may have been progress compared with monarchies, empires, dictatorships, and open oligarchies. But they remain unfinished: the people are recognized as the source of power, rarely as real actors of that power.
 
-##### 5.2 Against the Monopoly of Capital over the Future
-In current systems, the power to orient the future is largely concentrated in the hands of those who own capital.
+True democracy begins when citizens are no longer only represented, but present: present in discussion, in decision-making, in the control of mandates, and in the possibility of taking back their voice.
 
-It is they who decide, directly or indirectly, which projects are financed, which priorities prevail, and which transformations of society are considered worthy of support.
+This manifesto defends a simple idea: every citizen must be able to participate directly in common decisions, or freely delegate their voice to a trusted person, by subject, and take that delegation back at any time.
 
-This concentration of power creates a contradiction: political equality is proclaimed, while a major part of society's real orientation remains dependent on unequal ownership.
+This principle is known, in some circles, as liquid democracy. Here we will speak of true democracy, because this is not primarily about defending a technical concept, but a political demand: the people must be able to be present in the decisions that concern them.
 
-The Democratic League affirms that the collective future should not be determined primarily by private capital.
+Our main contribution is strategic: this transformation can begin without waiting for constitutional reform. In any representative system, it is already possible to elect representatives who commit not to exercise power in the place of citizens, but to carry into institutions the decisions made by them.
 
-##### 5.3 Investment as a Democratic Function
-Liquid democracy must not stop at the doors of parliament, city councils, or formal political institutions.
+We call this the returned mandate.
 
-It must also apply to the democratic allocation of resources.
+The returned mandate is not the final goal. It is a method of transition. As long as institutions remain representative, we use existing elections to bring the real voice of citizens into places of power. But as soon as a majority of true-democracy elected officials makes it possible to change the rules, their duty is to do so: not to strengthen their own power, but to organize its overcoming.
 
-This means that part of the resources collected at each level of society should be allocated according to democratic decisions, taken directly by citizens or through revocable delegation.
-
-In such a system, each citizen contributes according to their means, but each citizen participates in decisions with equal political weight.
-
-The ability to contribute more must not give greater power over the collective future.
-
-##### 5.4 Several Levels of Collective Decision
-Human life is organized at several levels: local, municipal, regional, national, continental, and planetary.
-
-At each of these levels, common questions arise and common resources may be allocated.
-
-The Democratic League proposes that liquid democracy should progressively be exercised at all these levels.
-
-Each level should be able to decide on the use of its own resources, while respecting the legal framework defined by broader levels.
-
-In this way, local autonomy and wider solidarity can be combined.
-
-##### 5.5 Distinction Between Laws and Investments
-It is important to distinguish two things.
-
-First, laws define what is permitted, forbidden, or required. These laws may be decided democratically at different levels, and broader levels may impose constraints on narrower ones.
-
-Second, investment decisions concern the concrete use of resources within this legal framework.
-
-A city, for example, should be free to devote part of its own resources to housing, transport, or education, as long as it respects the applicable common rules.
-
-This distinction allows both coherence and autonomy.
-
-##### 5.6 Risk, Error, and Collective Learning
-No investment system can eliminate uncertainty.
-
-Projects can fail. Priorities can be mistaken. A society can discover too late that it did not choose well.
-
-The aim of democratic allocation is not to create an infallible system.
-
-It is to ensure that decisions about the future are no longer confiscated by a minority, and that collective errors remain visible, discussable, and revisable.
-
-Liquid democracy is therefore not presented as a perfect system, but as a system that is less bad because it is more corrigible.
-
-##### 5.7 Transparency, Responsibility, and Citizenship
-For such a system to function, transparency is essential.
-
-Citizens must be able to know how decisions are made, who supports what, and how delegated power is exercised.
-
-The Democratic League considers that responsibility grows with visibility.
-
-A true democratic culture cannot be based on the permanent concealment of political action, but on the progressive formation of citizens who assume responsibility for their choices and learn collectively from them.
-
-##### 5.8 Democracy as Collective Determination of the Future
-In this perspective, democracy is no longer reduced to choosing representatives from time to time.
-
-It becomes the continuous collective determination of the future of society.
-
-To democratize investment is to extend democracy to one of the places where power has long been most concentrated.
-
-Without this extension, political democracy remains incomplete.
+We do not want better masters. We want the people to stop needing masters.
 
 ---
 
-### Chapter 6. How to Participate in the Democratic League
+# I. The Problem: The Absent Majority
 
-##### 6.1 Introduction to Participation
-Liquid democracy relies on active participation and citizen engagement. This chapter details the various ways you can get involved and contribute to the implementation and functioning of liquid democracy.
+## 1. The people are sovereign in theory, absent in practice
 
-##### 6.2 Becoming a Member of the Democratic League (DL)
-- **Membership by Simple Will:**
-  - **Member Declaration:** Becoming a member of the Democratic League (DL) is done by simply choosing to do so. Anyone can declare themselves a member of the DL. By declaring themselves a member, they express their adherence to the principles stated in this manifesto.
-  - **No Mandatory Participation:** No specific participation is required to be a DL member, except for elected officials. Members are encouraged to participate actively, but this is not an obligation.
+In modern representative regimes, the citizen chooses a person, a list, or a party. Then, for several years, that person, list, or party decides in their name on thousands of subjects that were not always discussed, understood, or even mentioned during the campaign.
 
-##### 6.3 Commitment of DL Elected Officials
-- **Roles and Responsibilities of Elected Officials:**
-  - **Informing Citizens:** DL elected officials commit to informing citizens about ongoing proposals and providing clear and transparent explanations about the issues of each proposal.
-  - **Presenting Citizen Proposals:** Elected officials must present proposals submitted by citizens and bring them before decision-making bodies.
-  - **Voting According to Citizen Results:** Elected officials commit to voting in accordance with the results of citizens' online votes. Their official vote will thus reflect the will expressed by citizens.
-  - **Informing Other Elected Officials:** Elected officials must inform other elected officials (DL members or not) of citizen vote results, ensuring that the popular will is taken into account in political decisions.
+A voter may approve of a candidate on a social question, but disapprove of them on an economic question. They may agree with a party on education, but disagree on war, taxation, ecology, health, or public liberties. Yet on voting day, they often have to choose a whole package.
 
-##### 6.4 Participating in Votes and Deliberation
-- **Direct Vote and Delegation:**
-  - **Voting Directly:** Participate in online votes on proposals and important decisions. Every vote counts and helps shape policies and decisions.
-  - **Vote Delegation:** If you prefer, you can delegate your vote to a trusted representative. This delegation can be done by specific domain and can be revoked at any time. Note that if a vote is underway, the delegation is only effective after that vote.
+Representative democracy thus reduces the richness of the popular will to a poor act: periodically choosing those who will speak in our place.
 
-- **Submitting Proposals:**
-  - **Citizen Proposals:** Submit your own proposals to be reviewed and voted on by the community. A proposal is scheduled for a vote when a sufficient number of supports is obtained. Support for a proposal can also be delegated.
-  - **Preliminary Evaluation:** Once sufficient support is obtained, a preliminary evaluation is carried out to determine the impacts of the proposal and estimate the budget necessary for its implementation.
+The people are not absent because they are incapable of thinking. They are absent because institutions do not give them the ordinary means to be present.
 
-- **Participating in Discussions:**
-  - **Discussion Spaces:** Engage in discussions and deliberations on proposals. This can be done in the form of public meetings, online debates, or other suitable formats.
+They are asked for an opinion at election time, then asked to be silent at decision time.
 
-##### 6.5 Contributing to Platform Development
-- **Technological Development:** If you have skills in technological development, you can contribute to the development and improvement of the liquid democracy platform. Join the open-source project and participate in the various development phases.
-- **Testing and Feedback:** Participate in pilot projects as a beta tester to test the platform and provide valuable
+## 2. Representation as substitution
 
- feedback. Help identify issues and propose improvements.
+Representation is often presented as a practical necessity: not everyone can decide everything, all the time.
 
-##### 6.6 Awareness and Education
-- **Educational Programs:** Contribute to the creation and dissemination of educational programs to train citizens in using the online voting platform and the importance of their participation.
-- **Awareness Campaigns:** Become a DL ambassador by leading awareness campaigns in your community. Organize workshops, seminars, and information sessions to encourage active participation.
+There is some truth in this objection. A modern society is complex. Public decisions are numerous. Citizens do not necessarily want to spend their lives studying every file.
 
-Visit [democratic league's website](https://ligdem.github.io/ligdem/), its source is on [github](https://github.com/ligdem).
+But from this complexity we too quickly conclude that power must be entrusted to a few. Another conclusion is possible: allow everyone to participate when they wish, to delegate when they prefer, and to take back their voice when they deem it necessary.
+
+Classical representation turns delegation into dispossession. The citizen does not delegate a precise task: for several years, they abandon a general power.
+
+In a true democracy, delegation must never be abandonment. It must remain free, partial, controllable, and revocable.
+
+A classical representative speaks in my place even when I no longer agree with them. In a true democracy, someone carries my voice only as long as I entrust it to them.
+
+## 3. Oppression rarely comes from a majority that is too present
+
+Direct democracy, or true democracy, is often opposed with the danger of the tyranny of the majority. People imagine a passionate, ignorant, or brutal majority imposing its will on a vulnerable minority.
+
+This danger exists: a majority can be unjust. No democratic procedure automatically guarantees justice.
+
+But human history shows another danger more consistently: lasting oppressions are rarely the direct work of a majority that is truly present, informed, and organized. They are most often produced by organized minorities that control weapons, money, administration, law, religion, information, or the means of subsistence.
+
+A minority can dominate a majority if it manages to make that majority silent, dependent, divided, intimidated, or resigned.
+
+Slavery, colonialism, aristocracies, military dictatorships, financial oligarchies, authoritarian bureaucracies, and caste systems do not rest first on a majority that is too powerful. They rest on the capacity of a minority to prevent the majority from acting as a majority.
+
+Large parts of the people may at times support or tolerate oppressions. But even then, we must ask: who organizes that oppression? Who arms it? Who administers it? Who makes it profitable? Who controls the narrative? Who turns popular fears into lasting institutions?
+
+The main historical problem is not that the majority speaks too loudly. The problem is that it is too often made invisible, absent, spectating, or represented by others.
+
+True democracy does not promise that the majority will always be right. It only affirms this: no minority must be able to govern durably in the name of a silent majority.
 
 ---
 
-### Conclusion
+# II. The Principle: Vote, Delegate, Take Back Your Voice
 
-Your participation is essential for the success of liquid democracy. Whether by voting directly, delegating your vote, submitting proposals, contributing to technological development, or participating in educational programs, every action counts. Together, we can build a more participatory, transparent, and equitable governance system. If you do not wish to participate, there is no problem... no one is required to be a democrat.
+## 4. Definition
+
+True democracy is a system in which every citizen can take part in common decisions, directly or through free, partial, and revocable delegation.
+
+It rests on three simple gestures:
+
+1. I can vote myself.
+2. I can delegate my voice to a trusted person.
+3. I can take back my voice at any time.
+
+These three gestures change the nature of power.
+
+I can delegate differently depending on the domain: agriculture, health, education, energy, public finances, culture, liberties, security, environment. I can vote directly on a subject that particularly concerns me and delegate the others. I can trust, then withdraw that trust.
+
+True democracy does not ask everyone to be an expert in everything. It asks that everyone be able to choose freely how they participate, on which subjects they decide directly, and whom they trust when they prefer to delegate.
+
+## 5. Delegation is not abandonment
+
+An objection immediately appears: if citizens delegate their voice, are we not simply recreating representatives?
+
+No, because everything depends on the nature of the delegation.
+
+A classical representative receives a global mandate, for a fixed duration, over an undefined set of subjects. They can drift away from their voters, change position, yield to a party, a career, a personal interest, or a lobby, without citizens being able to take back their voice before the next election.
+
+In true democracy, delegation may be limited to a domain; it may be withdrawn at any time; it does not eliminate the possibility of voting directly; it never turns the delegate into the owner of the voice received.
+
+The delegate is not a master. They are a provisional bearer of trust.
+
+Classical representation says: "Trust me for several years."
+
+True democracy says: "Trust as long as you want, on what you want, and take back your voice when you want."
+
+## 6. Deliberate before deciding
+
+True democracy must not be a simple sum of individual impulses.
+
+There must be discussion, confrontation of arguments, hearing of objections, consultation of available knowledge, and time for opinions to form. The media, school, popular education, associations, cultural institutions, and public places will have a decisive role to play.
+
+But this manifesto does not claim to define the whole organization of that deliberation. It establishes the political principle: after deliberating, the people must be able to decide, directly or by revocable delegation.
+
+Deliberation without popular decision risks becoming consultation without power. Popular decision without deliberation risks becoming a sum of reflexes. A true democracy must hold both together.
+
+---
+
+# III. The Method: Begin Without Waiting
+
+## 7. The returned mandate
+
+Criticism of representative democracy often leads to an impasse: if current institutions are not truly democratic, then the constitution, electoral laws, and the whole political architecture would first have to be changed before anything could begin.
+
+This waiting can last indefinitely.
+
+Our proposal is different: true democracy can begin inside representative institutions themselves.
+
+In any system where representatives are elected, it is possible to present candidates who make a simple commitment:
+
+> I am not asking citizens to entrust me with their power so that I may exercise it in their place. I am asking them to elect me so that their power may enter the institutions.
+
+Such an elected official legally receives a representative mandate. But politically, they transform it into a returned mandate.
+
+The returned mandate is a representative mandate used to return power to citizens.
+
+The true-democracy elected official does not claim to be wiser than the people. They do not ask to be trusted for several years without control. They commit to carrying the decisions made by citizens according to a public procedure.
+
+They become an institutional relay.
+
+The returned mandate also transforms the profile of those who can stand as candidates. In classical representative democracy, a candidate must often present themselves as competent on everything, capable of deciding in the place of others, almost like a miniature leader. Many honest, cautious, or modest citizens then give up on standing because they do not feel like experts, political professionals, or people able to bear alone the weight of public decisions.
+
+With the returned mandate, this barrier falls. The candidate does not need to pretend to know better than citizens. They must commit to respecting a procedure, making decisions visible, faithfully carrying the collective will, and explaining their actions. Their candidacy is no longer founded on their supposed superiority, but on their loyalty to citizen presence.
+
+The returned mandate does not require more competent leaders; it allows ordinary citizens to become the relays of a present people.
+
+The classical representative says: "Elect me, I will decide for you."
+
+The relay representative says: "Elect me, and I will carry your decisions where you do not yet have the institutional right to carry them yourselves."
+
+## 8. A legal, progressive, and immediate transition
+
+The returned mandate allows us to escape a false dilemma: waiting for a great institutional reform or giving up because it seems impossible.
+
+It is not necessary to wait for the law to officially recognize true democracy in order to practice it politically.
+
+A local group can form. Citizens can debate, establish a decision procedure, vote directly, or delegate their voice. They can present a candidate who publicly commits to carrying their decisions into a municipal council, a parliament, or any other representative institution.
+
+If that candidate is elected, they remain subject to the legal rules of the institution. But they were elected on a clear commitment: not to decide according to their personal opinion alone, but according to the organized citizen will.
+
+This commitment is not necessarily a legal constraint. In some countries, the imperative mandate is prohibited. But it is a political and moral constraint. The elected official may legally retain their freedom to vote; they lose their legitimacy if they betray the commitment through which they were elected.
+
+True democracy therefore begins before it is written into law: every time a representative accepts to return their mandate.
+
+## 9. The returned mandate is not the final goal
+
+The returned mandate is not our horizon. It is our method of passage.
+
+We do not want to permanently install a new category of virtuous representatives. We do not want to replace representatives who decide badly with representatives who would decide better. We want to overcome representation as substitution.
+
+As long as institutions force the people to go through representatives, we will use relay representatives. But as soon as a sufficient number of true-democracy elected officials makes it possible to change the rules, they must change them.
+
+Their duty is then to institutionalize true democracy: officially allow citizens to vote directly, delegate their voice, take back that delegation, control decisions, and truly participate in public life.
+
+Returned mandates are scaffolding. Once true democracy is built, the scaffolding must be removed.
+
+We use elections not to sanctify representation, but to overcome it democratically.
+
+---
+
+# IV. Organizing Citizen Presence
+
+## 10. Begin locally
+
+True democracy must begin where citizens can see its effects.
+
+A neighborhood, a commune, a city, a cooperative, an association, a union, or a school can become places of democratic experimentation.
+
+Local subjects are concrete: roads, waste, water, schools, safety, budgets, public contracts, health, urban planning, environment, transport, culture, mutual aid.
+
+In these domains, citizens often know far more than institutions recognize. They know dangerous streets, failing services, local abuses, real needs, emergencies invisible from administrative offices.
+
+A simple method is enough to begin: identify problems, formulate proposals, publicly discuss consequences, vote directly or delegate, then ask relay elected officials to carry the decisions into the institution.
+
+The goal is not to create a perfect procedure on the first day. The goal is to introduce a new habit: citizens are not merely consulted. They decide.
+
+## 11. Practical means are not the heart of the project
+
+True democracy will need practical means to organize proposals, debates, votes, delegations, transparency, and the control of elected officials.
+
+These means may be varied: public meetings, local assemblies, registries, paper votes, citizen offices, digital tools, hybrid procedures, mediators, popular training, access points for those who do not have Internet access.
+
+But no tool is true democracy.
+
+A digital platform can facilitate participation. It can make delegations smoother, votes more frequent, decisions more visible. But it is only an instrument.
+
+True democracy must never become a smartphone democracy reserved for the connected, the young, the educated, or technicians. A system that excluded the poor, older people, poorly connected areas, or those who have difficulty with writing would betray its own principle.
+
+The heart of the project is therefore not technical. It is political: to make participation, delegation, control, and the recovery of one's voice possible for every citizen.
+
+---
+
+# V. Responses to Common Objections
+
+## 12. "Citizens are not competent"
+
+Representative democracy does not solve this problem. It asks citizens to choose, all at once, people supposed to be competent on every subject. But that choice is itself very difficult.
+
+True democracy gives a better answer to complexity: it allows trust to be distributed.
+
+I can vote directly on what I understand or on what concerns me. I can delegate to a competent person on a precise subject. I can change delegates if I believe they were wrong. I can follow debates, compare arguments, take back my voice.
+
+True democracy does not suppose that everyone knows everything. It supposes that everyone can choose whom to trust, subject by subject, and take back that trust.
+
+## 13. "People will vote for anything"
+
+The people can be wrong. They can be poorly informed, manipulated, carried away by emotion, tempted by simplistic solutions.
+
+But elected officials can be wrong too. They can be ignorant, corrupt, subject to their party, dependent on funders, influenced by lobbies, prisoners of their careers, cut off from real life.
+
+The question is therefore not to invent a system in which nobody is wrong. Such a system does not exist. The real question is: in which system are errors most visible, most discussable, most reversible, and least capturable by an organized minority?
+
+We must also distinguish ordinary decisions from structural decisions. A local, limited, and reversible decision can be taken with lower participation if everyone has truly had the possibility to participate or delegate. By contrast, a decision that durably transforms institutions, strongly commits the future, or deeply affects a minority must require more: delays, contradictory information, broader participation, confirmation, or a reinforced procedure.
+
+Legitimacy does not come only from the number of voters. It comes from the effective openness of participation, the possibility of delegation, the quality of deliberation, and the seriousness of what is being decided.
+
+## 14. "The majority will oppress minorities"
+
+Yes, a majority can be unjust. Yes, a majority may want to limit the freedom of a minority. Yes, no democratic procedure automatically guarantees justice.
+
+But this danger must be understood precisely.
+
+History does not simply show a naturally oppressive majority. It often shows majorities shaped by fear, nationalism, religion, racism, propaganda, or the interests of organized apparatuses. It also shows powerful minorities able to transform the prejudices or anxieties of part of the people into lasting institutions of oppression.
+
+True democracy does not claim that a majority will always be right. It affirms two things.
+
+First, lasting oppressions are easier when real power is concentrated in a few hands, far from popular control.
+
+Second, when a majority becomes unjust, minorities must have real means of resistance: freedom of speech, freedom of association, autonomous organization, public visibility of conflicts, alliances, counter-proposals, disobedience, local autonomy, and sometimes forms of reinforced autonomy when coexistence becomes oppression.
+
+These means are easier to organize in a true democracy than in a closed representative system. A minority can organize directly, receive delegations, make injustice visible, contest a decision, shift political trust, and quickly build a coalition.
+
+No constitution will save a people that no longer wants to be free. But institutions can make domination more or less easy, and resistance more or less possible.
+
+## 15. "Super-delegates will recreate an oligarchy"
+
+This objection must be taken seriously.
+
+In a system where citizens can delegate their voice, certain visible, competent, or influential people will probably receive many delegations. That is not in itself a scandal: if many citizens trust someone on a subject, that trust must be able to express itself.
+
+The danger appears when this concentration becomes invisible, lasting, and uncontrolled. We would then leave classical representation only to recreate a more fluid oligarchy.
+
+The answer must not come from a principle imposed from outside. Rules limiting or organizing delegations must themselves be subject to democratic decision. But some minimal rules are worth establishing from the beginning, because they protect the very possibility of correcting the system.
+
+Transparency is the first. Everyone must be able to know where their voice goes, who receives many delegations, on which subjects, and according to which chains of trust.
+
+Periodic expiration of delegations is a second simple example: a delegation that is not renewed expires. Trust must be given again regularly instead of crystallizing into permanent power. The exact duration, warning thresholds, or finer rules can then be decided democratically.
+
+True democracy does not eliminate the possibility of concentrated trust. It prevents that concentration from becoming a hidden and lasting property of power.
+
+## 16. "It will be manipulated by the rich, the media, or influencers"
+
+That is possible. But it is already the case.
+
+Modern representative elections are already crossed by money, media, influence networks, party machines, political advertising, polls, algorithms, and economic interests.
+
+True democracy does not suddenly eliminate manipulation. But it changes the conditions of the struggle against it.
+
+In a representative system, it is sometimes enough to capture a candidate, a party, a medium, or an electoral campaign to obtain several years of power. In a true democracy, trust must be maintained continuously. Delegations can be withdrawn. Citizens can compare votes, arguments, and behavior. New delegates can emerge. Decisions can be challenged more quickly.
+
+The quality of information remains a major political question. But transparency and revocability at least disadvantage lasting lies: when a delegate deceives, betrays, or manipulates, their trust can be withdrawn without waiting for the next general election.
+
+## 17. "Not everyone has Internet access"
+
+True democracy must not depend exclusively on the Internet.
+
+If it became a system reserved for those who have a smartphone, a good connection, free time, and sufficient command of digital tools, it would betray its own principle.
+
+It will therefore be necessary to provide multiple means of participation: public places, citizen offices, local assemblies, support, paper procedures, help for older people, access in schools, libraries, town halls, associations, or other common places.
+
+Digital tools can help. They must not exclude.
+
+## 18. "Security is impossible"
+
+Every political procedure can be attacked.
+
+Paper voting can be defrauded. Electoral rolls can be manipulated. Campaigns can be bought. The media can lie. Administrations can be captured. Digital tools can be hacked.
+
+We must therefore not promise absolute security. We must promise a demand for verifiability.
+
+Procedures must be public, auditable, understandable, and contestable. Tools must be open as much as possible. Results must be verifiable. Important decisions may require hybrid or repeated procedures. Identities must be protected against fraud without creating permanent political surveillance.
+
+Technology must never be believed. It must be verifiable.
+
+## 19. "The imperative mandate is prohibited"
+
+In some political systems, especially for certain parliamentary mandates, the imperative mandate is prohibited. This means that an elected official cannot be legally obliged to vote according to the instructions of their voters.
+
+This objection does not destroy the returned mandate.
+
+The returned mandate is not primarily a legal constraint. It is a public political commitment.
+
+A candidate can clearly say before the election: "If I am elected, I will follow the decisions made according to this citizen procedure." Voters choose them on that basis. If they betray it, they may not be legally punished, but they lose the political legitimacy attached to their commitment.
+
+The law may prohibit the mandate from being legally imperative. It cannot prohibit citizens from choosing candidates who freely commit to returning their power.
+
+We must be clear, however: the returned mandate does not have the same solidity at every scale. At the local level, reputation travels quickly, citizens can directly challenge the elected official, and defection is paid for more immediately in social and political life. At the national level, the risk of betrayal is greater: the seat is more distant, more protected, more surrounded by apparatuses, media, and interests.
+
+This is why the returned mandate cannot rest only on the personal virtue of the candidate. It must rest on an organized movement: continuous publication of votes, systematic comparison between citizen decisions and the elected official's actions, public withdrawal of support in case of betrayal, rapid preparation of a successor, and, if possible, a moral commitment to resign in case of a clear break with the procedure that made the election possible.
+
+True democracy therefore begins as a political practice before becoming an institutional rule. But as long as it remains a voluntary practice, it must recognize its fragility and organize its own means of control.
+
+## 20. "Why would elected officials agree to lose their power?"
+
+Not all of them will.
+
+Those who seek personal power, a career, prestige, or domination are not candidates of true democracy.
+
+A true-democracy elected official does not stand in order to govern the people. They stand to open an institutional passage for the citizen will.
+
+They know that their role is transitional. They know that the returned mandate is not a privilege, but a service. They know that the final success of their action will be to make their own role less necessary.
+
+We are not looking for more virtuous leaders. We are looking for citizens capable of accepting a mandate in order to return it.
+
+## 21. "Is this merely liquid democracy?"
+
+The mechanism defended here corresponds to what is often called liquid democracy: the possibility, for every citizen, to vote directly or delegate their voice, by subject, with revocation possible at any time.
+
+We use the expression true democracy for two reasons.
+
+First, because the general public does not necessarily know the expression liquid democracy. Second, because our goal is not only to describe a procedure. It is to carry a political demand: to leave representation as substitution and make the people present in decision-making.
+
+Our main contribution is not that we invented revocable delegation. Our contribution is to show a path of transition: in any representative system, it is possible to begin with returned mandates; then, as soon as a majority allows it, to transform the rules in order to institutionalize true democracy.
+
+Existing experiments in citizen participation, referendums, randomly selected conventions, or liquid democracy show both possibilities and limits. Porto Alegre's participatory budgeting showed the strength of local and budgetary decisions made visible to inhabitants. Swiss popular votes show that a more direct democracy can last, but that it is not automatically just or sufficient. France's Citizens' Convention on Climate showed the value of sortition and informed deliberation, but also the weakness of a citizen procedure when institutions remain free to take up or abandon its conclusions. Liquid-democracy experiments, especially among the German Pirates, showed the power of revocable delegation, but also the real risk of delegation concentration.
+
+These experiments do not exclude one another. Revocable delegation answers one question: who decides continuously? Sortition answers another: who can deliberate in depth on a complex subject? A true democracy can combine both: randomly selected citizen conventions can investigate difficult decisions, hear experts, formulate several options, and then all citizens can decide directly or by revocable delegation.
+
+This manifesto does not aim to provide a complete inventory of these experiments. It retains only one lesson: true democracy must be experimental, transparent, corrigible, and capable of learning from its own mistakes.
+
+---
+
+# VI. Charter for Democratic League Candidates
+
+Here we call the Democratic League the set of people who subscribe to this manifesto and accept to carry, within institutions, the principle of the returned mandate. It is not a separate power above citizens; it is the name given to those who organize to bring about true democracy by the means already available.
+
+A Democratic League candidate does not ask citizens to abandon their power to them. They propose to carry that power into institutions as long as those institutions do not yet allow citizens to exercise it directly.
+
+## 22. Fundamental commitments
+
+A Democratic League candidate commits to:
+
+1. recognizing that the mandate received belongs politically to citizens;
+2. not using that mandate as a personal power;
+3. supporting a public procedure allowing citizens to propose, discuss, vote, delegate, and take back their voice;
+4. carrying into the institution the decisions resulting from that procedure;
+5. publishing their votes, positions, and justifications;
+6. making visible any gaps between citizen decisions and their institutional actions;
+7. refusing advantages, pressures, or dependencies that compromise the return of the mandate;
+8. promoting popular training in democratic participation;
+9. supporting any reform that makes it possible to institutionalize true democracy;
+10. recognizing that structural decisions require reinforced procedures;
+11. as soon as an institutional majority makes it possible, voting for the changes necessary for revocable delegation to become a common rule and not a mere voluntary practice.
+
+## 23. Oath of the returned mandate
+
+I am not asking citizens to entrust me with their voice so that I may speak in their place.
+
+I am asking them to elect me so that their voice enters the institutions.
+
+My mandate is not my property. It is a passage.
+
+I commit to carrying citizens' decisions, making my votes public, explaining my actions, and supporting any reform that makes it possible to establish true democracy.
+
+If I clearly break with the citizen procedure that made my election possible, I commit to withdrawing.
+
+I do not want to govern the people. I want to help make it impossible for a few to govern durably in their place.
+
+---
+
+# VII. Final Appeal: Make the People Present
+
+We are not looking for a savior, a providential leader, one more party, or a new elite tasked with deciding better than the old ones.
+
+We begin from a simple idea: citizens must be able to be present in the decisions that concern them.
+
+The majority does not need to be flattered. It does not need to be told that it is always right. It needs the means to speak, decide, delegate, control, and take back its voice.
+
+Representative democracy has made the people an abstract source of legitimacy. True democracy must make them a real presence.
+
+We can begin now.
+
+Where institutions are representative, let us present candidates who return their mandate.
+
+Where citizens are dispersed, let us organize their presence.
+
+Where we are told to wait for an impossible reform, let us begin with the means already available.
+
+Where we are asked to choose masters, let us elect relays.
+
+And as soon as we have the institutional strength to change the rules, let us change them so that the voice of the people no longer needs to pass through the goodwill of representatives.
+
+True democracy is not a distant dream. It begins every time a citizen takes back their voice, every time a representative accepts to return power, every time a majority stops being invisible and becomes present.
+
+From the invisible majority to the present majority: that is the passage we propose.
+
+Not to replace one domination with another, but so that no one can say to the people: "Your voice belongs to me until the next election."
