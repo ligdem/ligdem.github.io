@@ -1,3 +1,10 @@
+---
+lang: fr-FR
+locale: fr_FR
+title: De la majorité invisible à la majorité présente
+description: Manifeste pour une véritable démocratie.
+---
+
 # De la majorité invisible à la majorité présente
 
 ## Manifeste pour une véritable démocratie

@@ -1,3 +1,10 @@
+---
+lang: en-US
+locale: en_US
+title: From the Invisible Majority to the Present Majority
+description: Manifesto for a True Democracy.
+---
+
 # From the Invisible Majority to the Present Majority
 
 ## Manifesto for a True Democracy
