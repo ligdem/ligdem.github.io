@@ -11,39 +11,39 @@
 **Preamble**
 
 **I. The Problem: The Absent Majority**
-- 1. The people are sovereign in theory, absent in practice
-- 2. Representation as substitution
-- 3. Oppression rarely comes from a majority that is too present
+- 1\. The people are sovereign in theory, absent in practice
+- 2\. Representation as substitution
+- 3\. Oppression rarely comes from a majority that is too present
 
 **II. The Principle: Vote, Delegate, Take Back Your Voice**
-- 4. Definition
-- 5. Delegation is not abandonment
-- 6. Deliberate before deciding
+- 4\. Definition
+- 5\. Delegation is not abandonment
+- 6\. Deliberate before deciding
 
 **III. The Method: Begin Without Waiting**
-- 7. The returned mandate
-- 8. A legal, progressive, and immediate transition
-- 9. The returned mandate is not the final goal
+- 7\. The returned mandate
+- 8\. A legal, progressive, and immediate transition
+- 9\. The returned mandate is not the final goal
 
 **IV. Organizing Citizen Presence**
-- 10. Begin locally
-- 11. Practical means are not the heart of the project
+- 10\. Begin locally
+- 11\. Practical means are not the heart of the project
 
 **V. Responses to Common Objections**
-- 12. "Citizens are not competent"
-- 13. "People will vote for anything"
-- 14. "The majority will oppress minorities"
-- 15. "Super-delegates will recreate an oligarchy"
-- 16. "It will be manipulated by the rich, the media, or influencers"
-- 17. "Not everyone has Internet access"
-- 18. "Security is impossible"
-- 19. "The imperative mandate is prohibited"
-- 20. "Why would elected officials agree to lose their power?"
-- 21. "Is this merely liquid democracy?"
+- 12\. "Citizens are not competent"
+- 13\. "People will vote for anything"
+- 14\. "The majority will oppress minorities"
+- 15\. "Super-delegates will recreate an oligarchy"
+- 16\. "It will be manipulated by the rich, the media, or influencers"
+- 17\. "Not everyone has Internet access"
+- 18\. "Security is impossible"
+- 19\. "The imperative mandate is prohibited"
+- 20\. "Why would elected officials agree to lose their power?"
+- 21\. "Is this merely liquid democracy?"
 
 **VI. Charter for Democratic League Candidates**
-- 22. Fundamental commitments
-- 23. Oath of the returned mandate
+- 22\. Fundamental commitments
+- 23\. Oath of the returned mandate
 
 **VII. Final Appeal: Make the People Present**
 

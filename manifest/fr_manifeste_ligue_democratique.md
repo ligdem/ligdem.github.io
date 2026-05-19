@@ -11,39 +11,39 @@
 **Préambule**
 
 **I. Le problème : la majorité absente**
-- 1. Le peuple souverain en théorie, absent en pratique
-- 2. La représentation comme substitution
-- 3. L’oppression vient rarement d’une majorité trop présente
+- 1\. Le peuple souverain en théorie, absent en pratique
+- 2\. La représentation comme substitution
+- 3\. L’oppression vient rarement d’une majorité trop présente
 
 **II. Le principe : voter, déléguer, reprendre sa voix**
-- 4. Définition
-- 5. La délégation n’est pas l’abandon
-- 6. Délibérer avant de décider
+- 4\. Définition
+- 5\. La délégation n’est pas l’abandon
+- 6\. Délibérer avant de décider
 
 **III. La méthode : commencer sans attendre**
-- 7. Le mandat restitué
-- 8. Une transition légale, progressive et immédiate
-- 9. Le mandat restitué n’est pas le but final
+- 7\. Le mandat restitué
+- 8\. Une transition légale, progressive et immédiate
+- 9\. Le mandat restitué n’est pas le but final
 
 **IV. Organiser la présence citoyenne**
-- 10. Commencer localement
-- 11. Les moyens pratiques ne sont pas le cœur du projet
+- 10\. Commencer localement
+- 11\. Les moyens pratiques ne sont pas le cœur du projet
 
 **V. Réponses aux objections courantes**
-- 12. « Les citoyens ne sont pas compétents »
-- 13. « Les gens vont voter n’importe quoi »
-- 14. « La majorité va opprimer les minorités »
-- 15. « Des super-délégués vont recréer une oligarchie »
-- 16. « Ce sera manipulé par les riches, les médias ou les influenceurs »
-- 17. « Tout le monde n’a pas Internet »
-- 18. « La sécurité est impossible »
-- 19. « Le mandat impératif est interdit »
-- 20. « Pourquoi les élus accepteraient-ils de perdre leur pouvoir ? »
-- 21. « Est-ce seulement de la démocratie liquide ? »
+- 12\. « Les citoyens ne sont pas compétents »
+- 13\. « Les gens vont voter n’importe quoi »
+- 14\. « La majorité va opprimer les minorités »
+- 15\. « Des super-délégués vont recréer une oligarchie »
+- 16\. « Ce sera manipulé par les riches, les médias ou les influenceurs »
+- 17\. « Tout le monde n’a pas Internet »
+- 18\. « La sécurité est impossible »
+- 19\. « Le mandat impératif est interdit »
+- 20\. « Pourquoi les élus accepteraient-ils de perdre leur pouvoir ? »
+- 21\. « Est-ce seulement de la démocratie liquide ? »
 
 **VI. Charte des candidats de la Ligue démocratique**
-- 22. Engagements fondamentaux
-- 23. Serment du mandat restitué
+- 22\. Engagements fondamentaux
+- 23\. Serment du mandat restitué
 
 **VII. Appel final : rendre le peuple présent**
 
